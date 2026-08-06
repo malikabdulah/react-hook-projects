@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.navbar {
+  @apply flex flex-row gap-4 bg-gray-100 dark:bg-[#1E1E1D] text-[#1E1E1D] dark:text-[#FFFBF4] p-4 rounded-lg shadow-md;
+}
